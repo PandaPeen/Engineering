@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="Week two Blog">
+    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="Week three Blog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -171,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662576328181</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Week three Blog">
+      <created>1662829104311</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662829104311</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Week three Blog">
+      <created>1662829253586</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662829253586</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +209,7 @@
     <MESSAGE value="work" />
     <MESSAGE value="made better" />
     <MESSAGE value="Week two Blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week two Blog" />
+    <MESSAGE value="Week three Blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week three Blog" />
   </component>
 </project>
