@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/Goldberg.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CameraCAD.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/CameraCAD.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663355198836</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fix">
+      <created>1663355260106</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1663355260106</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
