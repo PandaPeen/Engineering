@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="Week 13">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="Week 1 and two Semester 2">
+      <change afterPath="$PROJECT_DIR$/ShadeBalls.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sharkTank.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671472334271</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Week 1 and two Semester 2">
+      <created>1676059109833</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1676059109833</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -399,6 +406,7 @@
     <MESSAGE value="Week 9" />
     <MESSAGE value="Week 10,11,12" />
     <MESSAGE value="Week 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 13" />
+    <MESSAGE value="Week 1 and two Semester 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 1 and two Semester 2" />
   </component>
 </project>
