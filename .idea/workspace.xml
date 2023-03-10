@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="Week 1 and two Semester 2 images">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="arduino proj &amp; week 9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -374,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676059917992</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="arduino proj &amp; week 9">
+      <created>1678420604313</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1678420604313</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +394,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="tests" />
     <MESSAGE value="rick" />
     <MESSAGE value="rick you" />
     <MESSAGE value="favicon" />
@@ -415,6 +418,7 @@
     <MESSAGE value="Week 13" />
     <MESSAGE value="Week 1 and two Semester 2" />
     <MESSAGE value="Week 1 and two Semester 2 images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 1 and two Semester 2 images" />
+    <MESSAGE value="arduino proj &amp; week 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="arduino proj &amp; week 9" />
   </component>
 </project>
