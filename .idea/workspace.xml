@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="wek1 3">
-      <change afterPath="$PROJECT_DIR$/EggDropBox.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cardboardBoatCad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="wek11,12,13 pics">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661210751622</updated>
-    </task>
-    <task id="LOCAL-00001" summary="tests">
-      <created>1661210912286</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1661210912286</updated>
     </task>
     <task id="LOCAL-00002" summary="tests">
       <created>1661211161557</created>
@@ -412,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681498669505</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="wek11,12,13 pics">
+      <created>1682013605413</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1682013605413</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="blog and link" />
     <MESSAGE value="work" />
     <MESSAGE value="made better" />
     <MESSAGE value="Week two Blog" />
@@ -453,6 +448,7 @@
     <MESSAGE value="week 10" />
     <MESSAGE value="week 10,11,12" />
     <MESSAGE value="wek1 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="wek1 3" />
+    <MESSAGE value="wek11,12,13 pics" />
+    <option name="LAST_COMMIT_MESSAGE" value="wek11,12,13 pics" />
   </component>
 </project>
