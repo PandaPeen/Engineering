@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="wek11,12,13 pics">
+    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="week 13 fix">
+      <change afterPath="$PROJECT_DIR$/boatPrototype.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661210751622</updated>
-    </task>
-    <task id="LOCAL-00002" summary="tests">
-      <created>1661211161557</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1661211161557</updated>
     </task>
     <task id="LOCAL-00003" summary="rick">
       <created>1661365621175</created>
@@ -408,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682013605413</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="week 13 fix">
+      <created>1682013698270</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1682013698270</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +426,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="work" />
     <MESSAGE value="made better" />
     <MESSAGE value="Week two Blog" />
     <MESSAGE value="Week three Blog" />
@@ -449,6 +450,7 @@
     <MESSAGE value="week 10,11,12" />
     <MESSAGE value="wek1 3" />
     <MESSAGE value="wek11,12,13 pics" />
-    <option name="LAST_COMMIT_MESSAGE" value="wek11,12,13 pics" />
+    <MESSAGE value="week 13 fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 13 fix" />
   </component>
 </project>
