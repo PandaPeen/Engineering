@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="week 13 fix">
-      <change afterPath="$PROJECT_DIR$/boatPrototype.jpg" afterDir="false" />
+    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="week 14 &amp; 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -66,20 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661210751622</updated>
-    </task>
-    <task id="LOCAL-00003" summary="rick">
-      <created>1661365621175</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1661365621175</updated>
-    </task>
-    <task id="LOCAL-00004" summary="rick">
-      <created>1661365711436</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1661365711436</updated>
     </task>
     <task id="LOCAL-00005" summary="rick you">
       <created>1661366486665</created>
@@ -410,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682013698270</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="week 14 &amp; 15">
+      <created>1683305277008</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1683305277011</updated>
+    </task>
+    <task id="LOCAL-00053" summary="week 14 &amp; 15">
+      <created>1683565685882</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1683565685882</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,7 +425,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="made better" />
     <MESSAGE value="Week two Blog" />
     <MESSAGE value="Week three Blog" />
     <MESSAGE value="img" />
@@ -451,6 +449,7 @@
     <MESSAGE value="wek1 3" />
     <MESSAGE value="wek11,12,13 pics" />
     <MESSAGE value="week 13 fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 13 fix" />
+    <MESSAGE value="week 14 &amp; 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 14 &amp; 15" />
   </component>
 </project>
