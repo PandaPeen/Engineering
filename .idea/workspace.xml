@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="week 14 &amp; 15">
+    <list default="true" id="a455954d-bb38-4d42-89f3-bf38a28d19e8" name="Changes" comment="week 16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -65,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661210751622</updated>
-    </task>
-    <task id="LOCAL-00005" summary="rick you">
-      <created>1661366486665</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1661366486665</updated>
     </task>
     <task id="LOCAL-00006" summary="favicon">
       <created>1661366625126</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683565685882</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="week 16">
+      <created>1683573490011</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1683573490011</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +425,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Week two Blog" />
     <MESSAGE value="Week three Blog" />
     <MESSAGE value="img" />
     <MESSAGE value="update" />
@@ -450,6 +449,7 @@
     <MESSAGE value="wek11,12,13 pics" />
     <MESSAGE value="week 13 fix" />
     <MESSAGE value="week 14 &amp; 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 14 &amp; 15" />
+    <MESSAGE value="week 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 16" />
   </component>
 </project>
